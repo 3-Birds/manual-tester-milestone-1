@@ -27,9 +27,9 @@ a database but you have opportnity to work in an exsisting one, that is your dec
 
 The expectation is writing two queries according to the following instructions:
 
-1. Write query in to the *solution-1.sql* file to get pizzas with price beetween 500 and 1000
+1. Write SQL QUERY that tells who delivered pizza and for what amount of money in descending order by amount!
 
-2. Write query to get how many pizzas are ordered by Beni
+2. Write query to get how many pizzas are ordered by Beni!
 
 
 
