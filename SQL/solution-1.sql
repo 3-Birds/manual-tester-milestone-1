@@ -1,4 +1,6 @@
-!-- WRITE SQL QUERY TO GET PIZZAS THAT THE PRICE OF WHICH IS BETWEEN 500 AND 1000 
+!-- WRITE SQL QUERY THAT TELLS WHO DELIVERED PIZZA AND FOR WHAT AMOUNT OF MONEY WITH ORDERED BY AMOUNT IN DESCENDING ORDER
 !-- EXPECTED OUTPUT:
-!-- | pizza  | price     |"
-!-- | Hawaii | 850       |
+!-- | courier   | amount     |"
+!-- | Hurricane | 9300       |
+!-- | Sonic     | 4900       |
+!-- | Villám    | 2950       |
